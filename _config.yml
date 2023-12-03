@@ -1,5 +1,15 @@
 title: 'Pranay Shah'
+description: "My Portfolio"
+url: "https://shahpranay.github.io"
 
 header_pages:
-  -README
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+
+style: dark
+
+footer: 'hello'
+
 remote_theme: b2a3e8/jekyll-theme-console
